@@ -1,2 +1,1 @@
 flask==3.0.3
-antigravity==0.1.2
